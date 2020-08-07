@@ -1,0 +1,18 @@
+First of all, the first thing to determine is what back-end framework you're going to use.
+This could be a back-end framework such as Laravel (a PHP back-end server), or Django (Python Based Back-end Server) or Express (JS based server).
+The back-end stack could be used for different reasons. You might want to use Flask for smaller applications with small REST apis or you will use 
+Spring boot for larger applications that are very specific types and need high performance. Express is used for an all around JS friendly framework
+that powers MERN apps (MongoDB, React, Express, NodeJS).
+
+The second consideration is the front-end framework. Front-end framework is a matter of preference but each framework as its own pros and cons.
+For example, ReactJS is the go-to front-end framework for me and many other developers that are building the UI for the website. React is a fast
+and easy to use framework that think in portions of the UI as "components" where it has state that can change. Angular for example thinks in terms of
+a templating engine. Some front-end frameworks are easier to use than others such as React and it's more well known so many developers can hop into 
+the project and not worried about a steep learning curve. The biggest problem with front-end frameworks is its support and half-life because a new framework
+will replace an old one so you don't want to use a framework with small community / developer support for the framework. IE. React is not going anywhere.
+
+The third and final consideration is the Database. Most databases that are SQL databases use relationships between tables to convey their information.
+Databases like MongoDB are NoSQL databases that used for larger applications with larger data lengths. Use cases like this are video games with large
+datasets. NoSQL databases store key-value (hashmaps, dictionary, json, etc) for their data whereas SQL uses column and key based relationships.
+
+With all 3 of these considerations, this will be the inception of how a web app is developed. It is the pillar of which a webapp is built (front-end, back-end, database).

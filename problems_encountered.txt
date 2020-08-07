@@ -1,0 +1,3 @@
+Literally nothing, wasn't stumped anywhere. I used to be super frustrated with PHP but it's very easy as it both simultaneously handles the front end rendering and backend processing.
+
+I'd still prefer a proper Python backend with a React front end any day of the week though.
